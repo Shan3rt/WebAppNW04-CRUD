@@ -62,15 +62,11 @@
                                 <div class="dropdown-menu" aria-labelledby="navbarSubMenu">
                                     
                                     <a class="dropdown-item"
-                                            href="~/ExercisePages/MultiRecordQueryWithDefaultGridView.aspx"
+                                            href="~/ExercisePages/CRUD.aspx"
                                             style="color:black" runat="server">
-                                            Multi Record Query with Default GridView
+                                            CRUD
                                     </a>
-                                    <a class="dropdown-item"
-                                            href="~/ExercisePages/MultiRecordQueryWithCustomGridView.aspx"
-                                            style="color:black" runat="server">
-                                            Multi Record Query with Custom GridView
-                                    </a>
+                                    
                                     
                                 </div>
                             </li>
